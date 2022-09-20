@@ -1,0 +1,18 @@
+*,
+html {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.flex-grid {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.grid-container {
+  display: grid;
+  width: 600px;
+  height: 600px;
+}
